@@ -1,0 +1,2 @@
+[environments.development]
+store = "https://test-iwant.myshopify.com"
